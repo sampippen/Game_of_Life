@@ -15,8 +15,9 @@ screen. The number of times the program iterates is based on the user input when
 NOTE: The "world"/grid/text file cannot exceed 48x78 lines if running in Linux.
       Can run in IDEs such as CLion but the grid doesn't look nearly as good. Linux suggested.
 
-How to run this program: 1. unzip program			                             			                                        type:  unzip life.zip
-                         2. compile the program and create the executable                    			                      type:  make
-                         3. execute the program with the image file and number of iterations passed in as an argument   type:  ./life world.txt 315
+How to run this program:
+1. unzip program (type: unzip life.zip)
+2. compile the program and create the executable (type:  make)
+3. execute the program with the image file and number of iterations passed in as an argument (type:  ./life world.txt 315)
 
 Known issues/bugs: N/A
